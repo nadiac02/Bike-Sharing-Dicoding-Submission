@@ -7,6 +7,6 @@ pip install streamlit
 pip install -r requirements.txt
 
 ## Run Streamlit App
-Masuk ke directory: cd submission/dashboard/
+Masuk ke directory: cd dashboard
 
 streamlit run dashboard.py
